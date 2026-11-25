@@ -4,8 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=39D353&center=true&vCenter=true&width=800&lines=Excel+%E2%80%A2+Python+%E2%80%A2+Power+BI;SQL+%E2%80%A2+Google+Sheets+%E2%80%A2+Pandas+%E2%80%A2+NumPy;Cleaning+messy+data%2C+honestly;Learning+by+doing%2C+one+real+dataset+at+a+time)](https://github.com/km038805-ui)
 
-![Open to Work](https://img.shields.io/badge/Open_to-Remote_Work-27AE60?style=for-the-badge)
-![Full Time](https://img.shields.io/badge/Available-Full--time-16A085?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-39d353?style=for-the-badge)
+![Full-time](https://img.shields.io/badge/Full--time-39d353?style=for-the-badge)
+![Remote Job](https://img.shields.io/badge/Remote_Job-39d353?style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-k-56733a305/)
 [![GitHub](https://img.shields.io/badge/GitHub-km038805--ui-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/km038805-ui)
 [![Email](https://img.shields.io/badge/Email-km038805%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:km038805@gmail.com)
