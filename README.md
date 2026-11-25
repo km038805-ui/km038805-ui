@@ -1,18 +1,44 @@
-# 💫 About Me:
-Data-driven professional with hands-on experience in sales analysis, customer metrics, and performance reporting. Adept at transforming complex data into clear insights for stakeholders through interactive dashboards.
+# Muhammad K. — Data Analyst in Progress
 
+**Self-taught Data Analyst (fresher) | Madinah, Saudi Arabia**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-k-56733a305?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:km038805@gmail.com) 
+I am a self-taught data analyst in progress, learning by doing: cleaning real, messy datasets, analysing them with Excel and Python, and turning the numbers into clear, honest insights. I am looking for my first remote data role — data entry, data cleaning, and junior data analysis work.
 
-# 💻 Tech Stack:
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=km038805-ui&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=km038805-ui&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=km038805-ui&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 📍 Madinah, Saudi Arabia
+- 🎓 Education: 12th Grade (Higher Secondary) — Passed
+- 💼 Open to: Data Entry, Data Cleaning, Data Analysis (remote, full-time)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-k-56733a305/) · [GitHub](https://github.com/km038805-ui)
 
----
-[![](https://komarev.com/ghpvc/?username=km038805-ui&icon=0&color=0)](https://visitcount.itsvg.in)
+## Skills
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Excel · Google Sheets · Data Entry · Data Cleaning · Data Analytics · Python · Pandas · NumPy · SQL (basic) · Power BI · MS Word · PowerPoint · CRM Cleanup
+
+**Currently learning:** SQL (deeper), Power BI dashboards, lead-list building.
+
+## Projects
+
+All projects below are portfolio practice work on public datasets — **not client work and not employment**. The four Kaggle projects use public Kaggle data, analysed as practice.
+
+| Project | What it shows | Link |
+|---|---|---|
+| Supermarket Sales Analysis | Cleaned 1,000 sales rows; total sales $322,966.75; top category Food & Beverages | [Repo](https://github.com/km038805-ui/supermarket-sales-analysis) |
+| Superstore Sales & Profit Analysis | Cleaned 10,001 rows (799 duplicates removed); sales $2,297,200.86; profit $286,397.02 (12.47% margin) | [Repo](https://github.com/km038805-ui/superstore-sales-profit-analysis) |
+| HR Employee Attrition Analysis | 1,470 employees (IBM fictional sample data); attrition 16.12%; overtime 30.53% vs 10.44% without overtime | [Repo](https://github.com/km038805-ui/Hr-employee-attrition-analysis) |
+| Titanic Survival Analysis | 891 passengers; survival 38.38%; women 74.2% vs men 18.89%; 1st class 62.96% vs 3rd class 24.24% | GitHub link coming soon — local project for now |
+| Coffee Sales Analysis | Sales analysis in Excel and Python | [Repo](https://github.com/km038805-ui/Coffee_Sales-Analysis-) |
+| Apple Global Sales Analysis | Global sales analysis in Excel and Python | [Repo](https://github.com/km038805-ui/-Apple-Global-Sales-Analysis) |
+
+Each project includes a cleaned dataset, the Python analysis code, key findings, and charts (Excel workbooks and chart images are in my local portfolio / CV).
+
+## What I can do for you
+
+- Clean messy Excel / Google Sheets data (duplicates, missing values, wrong formats)
+- Convert PDF tables to clean Excel files
+- Build clear summary tables and charts in Excel and Power BI
+- Write honest, reproducible analysis in Python (Pandas, NumPy)
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/muhammad-k-56733a305/
+- Email: km038805@gmail.com
+- Location: Madinah, Saudi Arabia
