@@ -1,0 +1,11 @@
+Product ID,Product Name,Category,Price (SAR),Stock,Status
+P001,Notebook A5,Stationery,12,140,In Stock
+P002,Ball Pen Blue,Stationery,3,500,In Stock
+P003,USB Cable 1m,Electronics,25,85,In Stock
+P004,Phone Case,Electronics,35,60,Low Stock
+P005,Water Bottle 750ml,Home,18,120,In Stock
+P006,Desk Lamp,Home,55,40,In Stock
+P007,Mouse Pad,Electronics,15,200,In Stock
+P008,File Folder,Stationery,8,300,In Stock
+P009,Coffee Mug,Home,22,75,In Stock
+P010,Keyboard Cover,Electronics,28,45,Low Stock
