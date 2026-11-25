@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20K.&fontSize=70&fontAlignY=35&desc=Excel%20%E2%80%A2%20Python%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20SQL&descAlignY=55&descSize=20&animation=fadeIn" alt="Profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=220&section=header&text=Muhammad%20K.&fontSize=70&fontAlignY=35&desc=Excel%20%E2%80%A2%20Python%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20SQL&descAlignY=55&descSize=20&animation=fadeIn" alt="Profile banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2E86C1&center=true&vCenter=true&width=800&lines=Excel+%E2%80%A2+Python+%E2%80%A2+Power+BI;SQL+%E2%80%A2+Google+Sheets+%E2%80%A2+Pandas+%E2%80%A2+NumPy;Cleaning+messy+data%2C+honestly;Learning+by+doing%2C+one+real+dataset+at+a+time)](https://github.com/km038805-ui)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=39D353&center=true&vCenter=true&width=800&lines=Excel+%E2%80%A2+Python+%E2%80%A2+Power+BI;SQL+%E2%80%A2+Google+Sheets+%E2%80%A2+Pandas+%E2%80%A2+NumPy;Cleaning+messy+data%2C+honestly;Learning+by+doing%2C+one+real+dataset+at+a+time)](https://github.com/km038805-ui)
 
 ![Open to Work](https://img.shields.io/badge/Open_to-Remote_Work-27AE60?style=for-the-badge)
 ![Full Time](https://img.shields.io/badge/Available-Full--time-16A085?style=for-the-badge)
@@ -77,12 +77,12 @@ I work with data: I take real, messy datasets, clean them with Excel and Python,
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=km038805-ui&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=km038805-ui&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=km038805-ui&show_icons=true&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117&border_color=39d353&ring_color=39d353&hide_border=true&count_private=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=km038805-ui&layout=compact&title_color=39d353&text_color=c9d1d9&bg_color=0d1117&border_color=39d353&hide_border=true&langs_count=6)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=km038805-ui&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=km038805-ui&ring=39d353&fire=39d353&currStreakNum=39d353&sideNums=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=c9d1d9&background=0d1117&border=39d353&stroke=39d353&hide_border=true)](https://git.io/streak-stats)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=km038805-ui&theme=tokyo-night&hide_border=true)](https://github.com/km038805-ui)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=km038805-ui&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&hide_border=true)](https://github.com/km038805-ui)
 
 </div>
 
@@ -107,10 +107,10 @@ All projects below are **portfolio practice work on public datasets — not clie
 
 <div align="center">
 
-[![Supermarket Sales](https://github-readme-stats.vercel.app/api/pin/?username=km038805-ui&repo=supermarket-sales-analysis&theme=tokyonight&hide_border=true)](https://github.com/km038805-ui/supermarket-sales-analysis)
-[![Superstore Sales](https://github-readme-stats.vercel.app/api/pin/?username=km038805-ui&repo=superstore-sales-profit-analysis&theme=tokyonight&hide_border=true)](https://github.com/km038805-ui/superstore-sales-profit-analysis)
-[![HR Attrition](https://github-readme-stats.vercel.app/api/pin/?username=km038805-ui&repo=Hr-employee-attrition-analysis&theme=tokyonight&hide_border=true)](https://github.com/km038805-ui/Hr-employee-attrition-analysis)
-[![Titanic Survival](https://github-readme-stats.vercel.app/api/pin/?username=km038805-ui&repo=titanic-survival-analysis&theme=tokyonight&hide_border=true)](https://github.com/km038805-ui/titanic-survival-analysis)
+[![Supermarket Sales](https://github-readme-stats.vercel.app/api/pin/?username=km038805-ui&repo=supermarket-sales-analysis&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117&border_color=39d353&hide_border=true)](https://github.com/km038805-ui/supermarket-sales-analysis)
+[![Superstore Sales](https://github-readme-stats.vercel.app/api/pin/?username=km038805-ui&repo=superstore-sales-profit-analysis&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117&border_color=39d353&hide_border=true)](https://github.com/km038805-ui/superstore-sales-profit-analysis)
+[![HR Attrition](https://github-readme-stats.vercel.app/api/pin/?username=km038805-ui&repo=Hr-employee-attrition-analysis&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117&border_color=39d353&hide_border=true)](https://github.com/km038805-ui/Hr-employee-attrition-analysis)
+[![Titanic Survival](https://github-readme-stats.vercel.app/api/pin/?username=km038805-ui&repo=titanic-survival-analysis&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117&border_color=39d353&hide_border=true)](https://github.com/km038805-ui/titanic-survival-analysis)
 
 </div>
 
@@ -173,7 +173,7 @@ All projects below are **portfolio practice work on public datasets — not clie
 ![CRM Cleanup](https://img.shields.io/badge/CRM_Cleanup-27AE60?style=flat-square)
 ![Open to Remote Work](https://img.shields.io/badge/Open_to-Remote_Work-27AE60?style=flat-square)
 
-![Profile views](https://komarev.com/ghpvc/?username=km038805-ui&label=Profile%20views&color=2E86C1&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=km038805-ui&label=Profile%20views&color=39D353&style=flat-square)
 
 *Open to remote data entry, data cleaning and junior data analysis work — anywhere, as long as it is legal and honest.* 🙏
 
